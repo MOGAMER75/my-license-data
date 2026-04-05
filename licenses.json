@@ -1,0 +1,12 @@
+{
+  "licenses": {
+    "KELDEM_TOOL_VIP_MY_KALI": {
+      "device_id": "3728439e08d43e33",
+      "expiry": "2030-12-31",
+      "status": "active"
+    }
+  },
+  "blacklist": {
+    "devices": []
+  }
+}
